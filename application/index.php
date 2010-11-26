@@ -1,0 +1,1 @@
+<?php header("Location: http://emendiel.free.fr/menukar/web/"); ?>
